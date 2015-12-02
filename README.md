@@ -1,2 +1,0 @@
-# iCase
-iCase Project
